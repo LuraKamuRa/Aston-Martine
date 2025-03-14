@@ -4,6 +4,7 @@
 
 body{
     margin: 0;
+    background-color: black;
 }
 
 .header{
@@ -27,19 +28,24 @@ body{
 }
 .menu li{
     margin: 0 32px 0 0;
+    align-content: center;
     
 }
 .menu{
     margin: 0 319px 0 0;
     color: aliceblue;
     align-content: center;
+    text-align: center;
+
 }
 .comprar{
-    border:solid 1.5px;
-    width: 106px;
-    height: 40px;
+    width: 90px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
     border-radius: 10px;
-
+    border:solid 1.5px;
 }
 
 
