@@ -214,9 +214,18 @@ span{
 }
 
 .menu li{
-    margin: 3px;
+    margin: 5px;
 }
-
+.conteudo{
+    text-align: center;
+    margin: 0 auto;
+}
+.saibamais1{
+    margin: 0 auto;
+    padding: 3px;
+    width: 142px;
+    height: 52px;
+}
 .box1{
     width: 100vw;
     height: 100%;
